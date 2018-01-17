@@ -1,0 +1,23 @@
+img {
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 350px;
+    float: left;
+}
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+.about {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  font-style: italic;
+  color: #FF5733;
+}
